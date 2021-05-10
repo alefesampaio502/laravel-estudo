@@ -1,6 +1,23 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v8.5.14...8.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/v8.5.16...8.x)
+
+
+## [v8.5.16 (2021-04-20)](https://github.com/laravel/laravel/compare/v8.5.15...v8.5.16)
+
+### Changed
+- Rename test methods ([#5574](https://github.com/laravel/laravel/pull/5574))
+- Using faker method instead of properties ([#5583](https://github.com/laravel/laravel/pull/5583))
+
+### Fixed
+- Ignore SQLite files generated on parallel testing ([#5593](https://github.com/laravel/laravel/pull/5593))
+
+
+## [v8.5.15 (2021-03-23)](https://github.com/laravel/laravel/compare/v8.5.14...v8.5.15)
+
+### Changed
+- Add prohibited validation rule ([#5569](https://github.com/laravel/laravel/pull/5569))
+- Re-order composer.json ([#5570](https://github.com/laravel/laravel/pull/5570))
 
 
 ## [v8.5.14 (2021-03-16)](https://github.com/laravel/laravel/compare/v8.5.13...v8.5.14)
