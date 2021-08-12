@@ -7,56 +7,58 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Estudo e desenvolvimento de sistema com Laravel Desenvolvimento Web Avançado 2021 com PHP, Laravel e Vue.JS.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+tópicos deste estudo :
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Configuração do ambiente de desenvolvimento nos sistemas operacionais Windows, Linux Ubuntu e OSX.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- Routes: Criação de rotas, grupos, verbos HTTP Get, Post, Delete, Put e Patch.
 
-## Learning Laravel
+- Views: Criação de views do lado do back-end da aplicação com a utilização do engine de views Blade.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+- Controllers: Criação de controladores.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Models, Migrations, Seeders, Factories, Tinker e Eloquent ORM.
 
-## Laravel Sponsors
+- Interceptação de requisições e respostas utilizando Middlewares.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+- Manipulação e validação de Formulários.
 
-### Premium Partners
+- Autenticação Web nativa do Framework Laravel.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
+- Inclusão do pacote UI com Bootstrap.
 
-## Contributing
+- Envio de e-mails e geração de arquivos XLSX, CSV e PDF.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+- Vue.JS para iniciantes
 
-## Code of Conduct
+- API's WebServices REST
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+- Autenticação API - Autorização JWT (JSON Web Token)
 
-## Security Vulnerabilities
+- Back-end Laravel com Front-end Vue.JS
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+- Armazenamento em memória com Redis E muito mais...
+- 
+# O que você aprenderá
 
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+    Configurar o ambiente de desenvolvimento nos sistemas operacionais Windows, Linux Ubuntu e OSX.
+    Trabalhar com rotas, grupos e com os verbos HTTP Get, Post, Delete, Put e Patch.
+    Trabalhar com o motor de renderização de views Blade
+    Trabalhar com o desenvolvimento incremental de bancos de dados relacionais utilizando Migrations
+    Criar Seeders e Factories para popular tabelas
+    Trabalhar com o console Tinker
+    Como manipular e validar formulários
+    Como interceptar requisições e respostas utilizando Middlewares
+    Como implementar as operações CRUD utilizando o Eloquent ORM
+    Como implementar autenticação por Session e Token (JWT)
+    Como lidar com o padrão de arquitetura MVC (Model, View e Controller)
+    Como exportar arquivos nos formatos XLSX, CSV e PDF
+    Como enviar e-mails
+    Construir APIs Webservices REST
+    Dominar os principais recursos do framework Laravel
+    Como combinar os frameworks Bootstrap (CSS) e Laravel
+    Como combinar os frameworks VueJS e Laravel
+    Como combinar o Laravel com o banco de dados Redis para armazenamento de dados em memória (cache)
+    Como desenvolver projetos web de forma rápida e estruturada
